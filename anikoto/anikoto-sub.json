@@ -1,0 +1,20 @@
+{
+  "sourceName": "Anikoto (SUB)",
+  "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
+  "author": {
+    "name": "0tun"
+  },
+  "version": "1.0.0",
+  "language": "English (SUB)",
+  "description": "Anikoto search, details, episodes and streams.",
+  "baseUrl": "https://anikototv.to/",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "searchBaseUrl": "https://anikototv.to/filter?keyword=%s",
+  "scriptUrl": "https://raw.githubusercontent.com/0tun/shirox-modules/main/anikoto/anikoto-sub.js",
+  "type": "anime",
+  "downloadSupport": true,
+  "asyncJS": true,
+  "streamAsyncJS": true,
+  "softsub": true
+}
